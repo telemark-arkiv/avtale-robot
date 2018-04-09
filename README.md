@@ -1,6 +1,6 @@
-# avtale-robot
-
 [![Greenkeeper badge](https://badges.greenkeeper.io/telemark/avtale-robot.svg)](https://greenkeeper.io/)
+
+# avtale-robot
 
 Robot for our agreements service
 
